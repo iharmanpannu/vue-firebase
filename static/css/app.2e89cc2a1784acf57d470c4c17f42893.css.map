@@ -1,1 +1,0 @@
-{"version":3,"sources":["app.2e89cc2a1784acf57d470c4c17f42893.css"],"names":[],"mappings":"AACA,KACE,aAAe,CAChB,AACD,kBAME,6BAAkC,CACnC","file":"app.2e89cc2a1784acf57d470c4c17f42893.css","sourcesContent":["\nbody {\n  color: #817c7b;\n}\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-family: 'Roboto', sans-serif;\n}\n"]}
